@@ -54,7 +54,7 @@ subMenu.add_command(label = "Exit", command = close)
 
 
 def about_us():
-    tkinter.messagebox.showinfo('About Music Player', 'This is a Python Miniproject named Music Player created by group MPC01 using Tkinter')
+    tkinter.messagebox.showinfo('About Music Player', 'This is a Python Miniproject named Music Player created by mg112002 using Tkinter')
 
 subMenu = Menu(menubar, tearoff = 0)
 menubar.add_cascade(label = "Help", menu = subMenu)
