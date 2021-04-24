@@ -5,4 +5,3 @@
 # The file setup.py is for converting our python file to executables(.exe) files
 # Music Player created using Tkinter and pygame 
 # Creator -----------Mangalam Gupta----------- 
-# Reference https://github.com/attreyabhatt
